@@ -1,7 +1,7 @@
 # Voter Network Analysis
 
 **Research conducted during Spring 2025 at Columbia University's Social Networks and Political Accountability Lab.**  
-*Under the guidance of Victoria Mooers.*
+*Under the guidance of Victoria Mooers, with collaboration from RA team.*
 
 ---
 
