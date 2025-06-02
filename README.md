@@ -46,8 +46,5 @@ Through the analysis of congressional education data, we explore how factors suc
 ## License
 
 - Code (`.py` files) → Licensed under the [MIT License](LICENSE)
-- Data and visualizations → Licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE-data.md)
-
-You are welcome to reuse, adapt, and share this work with attribution for **non-commercial** purposes. For commercial applications, please contact the author.
 
 
